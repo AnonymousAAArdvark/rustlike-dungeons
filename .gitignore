@@ -1,2 +1,5 @@
 /target
 .idea
+savegame
+savegame_op
+.DS_Store
